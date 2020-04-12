@@ -65,3 +65,8 @@ MANIFEST.MF文件用于描述Jar包的信息，例如指定入口函数等。我
 
 以上就是Java Agent的俩个简单小栗子了，Java Agent十分强大，它能做到的不仅仅是打印几个监控数值而已，还包括使用Transformer（推荐观看）等高级功能进行类替换，方法修改等，要使用Instrumentation的相关API则需要对字节码等技术有较深的认识。
 
+https://www.jianshu.com/p/b72f66da679f
+https://www.jianshu.com/p/5065656a12ad
+TProfiler：性能分析工具，代码比较简单，可以作为初步学习参考。
+arthas：java问题诊断神器，功能强大丰富。
+ASM官网：https://asm.ow2.io/
